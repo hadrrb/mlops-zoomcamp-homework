@@ -3,3 +3,4 @@ mlruns
 output
 *.db
 data
+*.pyc
