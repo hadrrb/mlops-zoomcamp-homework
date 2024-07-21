@@ -5,3 +5,6 @@ output
 data
 *.pyc
 *.bin
+__pycache__
+.pytest_cache
+.vscode
